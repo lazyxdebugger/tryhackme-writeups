@@ -11,6 +11,7 @@
 
 ## 🎯 Objective
 This room introduces the basics of cybersecurity and different roles in the field.
+
 ---
 
 ## 🧠 Overview
@@ -19,6 +20,7 @@ Learned about both offensive and defensive sides of cybersecurity and their real
 ---
 
 ## 🚀 Walkthrough
+
 
 ## 🔴 Offensive Security Intro
 
@@ -43,6 +45,7 @@ Used directory brute forcing to discover hidden endpoints on the target website.
 ```bash
 dirb http://fakebank.thm
 ```
+---
 
 🔍 Task 4: Deposit Exploit
 
@@ -51,7 +54,10 @@ Answer: ✔ Triggered successfully
 Approach:
 Interacted with the banking feature → manipulated the input amount → observed the system response.
 
+---
+
 🔵 Defensive Security Intro
+
 🔍 Task 1: Think Like a Defender
 
 Answer: Detect and respond to threats
@@ -77,7 +83,11 @@ Answer: ✔ Attack mitigated
 Approach:
 Applied defensive action → blocked attacker’s IP using firewall rules → confirmed mitigation.
 
+---
+
+
 🟢 Careers in Cyber
+
 🔍 Task 1
 
 Answer: ✔ Researched industry demand
@@ -93,6 +103,8 @@ Answer: ✔ Identified key security tools
 🔍 Task 4
 
 Answer: ✔ Learned engagement process
+
+---
 
 🚫 Disclaimer
 
