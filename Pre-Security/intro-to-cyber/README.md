@@ -10,12 +10,11 @@
 ---
 
 ## 🎯 Objective
-This room teached about the basics of cybersecurity and different roles in cybersecurity.
-
+This room introduces the basics of cybersecurity and different roles in the field.
 ---
 
 ## 🧠 Overview
-learned about the Offensive + Defensive side of the cybersecurity roles.
+Learned about both offensive and defensive sides of cybersecurity and their real-world applications.
 
 ---
 
