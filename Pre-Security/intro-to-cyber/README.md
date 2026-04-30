@@ -20,13 +20,6 @@ Learned about both offensive and defensive sides of cybersecurity and their real
 
 ## 🚀 Walkthrough
 
-# 🧠 Intro to Cyber
-
-## 📌 Overview
-This room introduces the fundamentals of offensive security, defensive security, and different roles in cybersecurity.
-
----
-
 ## 🔴 Offensive Security Intro
 
 ### 🔍 Task 1: Think Like a Hacker
