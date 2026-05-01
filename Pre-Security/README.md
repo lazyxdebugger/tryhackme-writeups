@@ -15,8 +15,7 @@ This section contains my writeups for the **Pre-Security** learning path on TryH
 ## 📂 Rooms
 
 - 🧠 [Intro to Cyber](./intro-to-cyber/)
-<!-- Add more rooms below -->
-<!-- - [Room Name](./room-folder/) -->
+- 🧠[Network Fundamentals](./network-fundamentals/)
 
 ---
 
