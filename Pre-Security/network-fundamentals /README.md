@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 Objective
-
+This room introduces the basics of networking.
 
 ---
 
