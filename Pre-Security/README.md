@@ -25,7 +25,7 @@ Build a strong foundation before moving to penetration testing.
 ---
 
 ## 📈 Progress
-- Rooms Completed: 1  
+- Rooms Completed: 2  
 - In Progress: Yes  
 
 ---
