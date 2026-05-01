@@ -1,4 +1,4 @@
-# 🧠 Network fundamentals
+# 🌐 Network fundamentals
 
 ## 📌 Room Info
 - **Platform:** TryHackMe  
@@ -14,7 +14,8 @@
 
 ---
 
-## 🧠 Overview
+## 📌 Overview
+This section contains my notes and writeups for network fundamentals.
 
 ---
 
