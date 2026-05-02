@@ -22,7 +22,7 @@ Learned about both offensive and defensive sides of cybersecurity and their real
 ## 🚀 Walkthrough
 
 
-## 🔴 Offensive Security Intro
+🔴 Offensive Security Intro
 
 ### 🔍 Task 1: Think Like a Hacker
 **Answer:** ✔ Completed  
