@@ -5,7 +5,7 @@
 - **Room Name:** How The Web Works  
 - **Path:** Pre-Security  
 - **Difficulty:** Easy   
-- **Date Completed:** 01-05-2026  
+- **Date Completed:** 05-05-2026  
 
 ---
 
@@ -15,11 +15,11 @@ This room introduces the basics of websites.
 ---
 
 ## 🧠 Overview
-This section covers DNS fundamentals including domain structure, record types, and how DNS queries work.
+This room covers DNS, HTTP, and the fundamentals of how web requests and responses function.
 
 ---
 
-# 🌐 DNS in Detail
+## 🌐 DNS in Detail
 
 ---
 
