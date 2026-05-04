@@ -15,8 +15,8 @@ This section contains my writeups for the **Pre-Security** learning path on TryH
 ## 📂 Rooms
 
 - 🧠 [Introduction to CyberSecurity](./intro-to-cyber/)
-- 🌐[Network Fundamentals](./network-fundamentals/)
-- 🗺️[How the web works](./intro-to-web/)
+- 🌐 [Network Fundamentals](./network-fundamentals/)
+- 🗺️ [How the web works](./intro-to-web/)
 
 ---
 
