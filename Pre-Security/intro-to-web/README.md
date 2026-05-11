@@ -92,12 +92,7 @@ Used DNS lookup tool → selected record type → queried domain → analyzed re
 
 ## 🌍 HTTP in Detail
 
-## 📌 Overview
-This section covers HTTP/HTTPS, request-response model, methods, status codes, and headers.
-
 ---
-
-## 🚀 Walkthrough
 
 ### 🔍 Task 1: What is HTTP(S)
 
@@ -181,6 +176,96 @@ This section covers HTTP/HTTPS, request-response model, methods, status codes, a
 
 **Approach:**  
 Used web interface → selected request method → added parameters → sent request → analyzed responses.
+
+---
+
+## 🌐 How Websites Work
+
+---
+
+### 🔍 Task 1: How the Web Works
+**Answer:** ✔ Understood frontend concept  
+
+---
+
+### 🔍 Task 2: HTML
+
+#### Q1
+**Answer:** ✔ Hidden content identified  
+
+#### Q2
+**Answer:** ✔ Modified webpage successfully  
+
+**Approach:**  
+Inspected and edited HTML elements → updated image source → analyzed webpage behavior.
+
+---
+
+### 🔍 Task 3: JavaScript
+**Answer:** ✔ JavaScript interaction completed  
+
+**Approach:**  
+Modified webpage script → updated DOM element content → observed webpage response.
+
+---
+
+### 🔍 Task 4: Sensitive Data Exposure
+**Answer:** ✔ Sensitive information identified  
+
+**Approach:**  
+Reviewed webpage source code → analyzed exposed client-side data.
+
+---
+
+### 🔍 Task 5: HTML Injection
+**Answer:** ✔ Injection executed successfully  
+
+**Approach:**  
+Injected custom HTML into the webpage input field → rendered external hyperlink → verified successful execution.
+
+---
+
+## 🧩 Putting It All Together
+
+---
+
+### 🔍 Task 1
+- Informational task (no questions)
+
+---
+
+### 🔍 Task 2: Other Components
+
+#### Q1
+**Answer:** ✔ Understood CDN usage  
+
+#### Q2
+**Answer:** ✔ Learned load balancer checks  
+
+#### Q3
+**Answer:** ✔ Identified website protection mechanism  
+
+---
+
+### 🔍 Task 3: How Web Servers Work
+
+#### Q1
+**Answer:** ✔ Learned virtual hosting concept  
+
+#### Q2
+**Answer:** ✔ Understood dynamic content  
+
+#### Q3
+**Answer:** ✔ Identified backend visibility behavior  
+
+---
+
+### 🔍 Task 4: Quiz
+**Answer:** ✔ Quiz completed successfully  
+
+---
+
+
 
 ---
 
