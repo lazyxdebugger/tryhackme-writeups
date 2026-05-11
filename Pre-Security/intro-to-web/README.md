@@ -275,7 +275,13 @@ Injected custom HTML into the webpage input field → rendered external hyperlin
 - HTTP request-response lifecycle  
 - Common HTTP methods (GET, POST, PUT, DELETE)  
 - Understanding status codes and headers  
-- Role of cookies in web sessions  
+- Role of cookies in web sessions
+- Difference between frontend and backend components  
+- Basics of HTML and JavaScript interaction  
+- Understanding sensitive data exposure  
+- Introduction to HTML injection  
+- Role of CDNs, load balancers, and WAFs  
+- Basics of how web servers host websites  
 
 ---
 
