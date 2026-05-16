@@ -1,7 +1,15 @@
-
-
-
 # 💻 Computer Fundamentals
+
+# 🧠 Intro to Cyber
+
+## 📌 Room Info
+- **Platform:** TryHackMe  
+- **Room Name:** Intro to Cyber  
+- **Path:** Pre-Security  
+- **Difficulty:** Easy   
+- **Date Completed:** 30-04-2026  
+
+---
 
 ## 📌 Overview
 This room introduces the basics of computer hardware, system startup processes, and different types of computers.
