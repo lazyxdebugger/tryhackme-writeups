@@ -1,13 +1,11 @@
 # 💻 Computer Fundamentals
 
-# 🧠 Intro to Cyber
-
 ## 📌 Room Info
 - **Platform:** TryHackMe  
-- **Room Name:** Intro to Cyber  
+- **Room Name:** Computer fundamentals  
 - **Path:** Pre-Security  
 - **Difficulty:** Easy   
-- **Date Completed:** 30-04-2026  
+- **Date Completed:** 16-05-2026  
 
 ---
 
