@@ -17,6 +17,7 @@ This section contains my writeups for the **Pre-Security** learning path on TryH
 - 🧠 [Introduction to CyberSecurity](./intro-to-cyber/)
 - 🌐 [Network Fundamentals](https://github.com/lazyxdebugger/tryhackme-writeups/tree/main/Pre-Security/network-fundamentals%20)
 - 🗺️ [How the web works](./intro-to-web/)
+- 💻 [Computer Fundamentals](./computer-fundamentals)
 
 ---
 
@@ -26,7 +27,7 @@ Build a strong foundation before moving to penetration testing.
 ---
 
 ## 📈 Progress
-- Rooms Completed: 3 
+- Rooms Completed: 4 
 - In Progress: Yes  
 
 ---
