@@ -9,7 +9,6 @@
 
 ---
 
-# 🖥️ OS Basics
 
 ## 📌 Overview
 This room introduces operating systems, their core responsibilities, file systems, and basic interaction with Linux and Windows environments.
