@@ -1,4 +1,4 @@
-# 💻 Software Basics
+# ⛭ Software Basics
 
 ## 📌 Room Info
 - **Platform:** TryHackMe  
