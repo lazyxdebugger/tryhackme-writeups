@@ -8,7 +8,8 @@ This section contains my writeups for the **Pre-Security** learning path on TryH
 - Cybersecurity basics  
 - Networking fundamentals  
 - Linux basics  
-- Web fundamentals  
+- Web fundamentals
+- Operating System Basics
 
 ---
 
@@ -27,7 +28,7 @@ Build a strong foundation before moving to penetration testing.
 ---
 
 ## 📈 Progress
-- Rooms Completed: 4 
+- Rooms Completed: 5
 - In Progress: Yes  
 
 ---
@@ -35,3 +36,6 @@ Build a strong foundation before moving to penetration testing.
 ## ⚠️ Disclaimer
 These writeups are for educational purposes only.  
 No flags or sensitive information are included.
+
+## 📌 Note
+This repository includes only writeups for freely accessible TryHackMe rooms.
