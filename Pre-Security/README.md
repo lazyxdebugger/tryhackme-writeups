@@ -22,7 +22,7 @@ This section contains my writeups for the **Pre-Security** learning path on TryH
 - 💻 [Computer Fundamentals](./computer-fundamentals)
 - ⚙️[Operating System](./operating-system-basics)
 - 💾 [Software Basics](./software-basics)
-- ⚔️🛡️ [Attacks and Defenses](./attacks-and-defences)
+- ⚔️🛡️ [Attacks and Defenses](./attacks-and-defenses)
 ---
 
 ## 🎯 Goal
