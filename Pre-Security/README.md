@@ -18,7 +18,7 @@ This section contains my writeups for the **Pre-Security** learning path on TryH
 - 🌐 [Network Fundamentals](https://github.com/lazyxdebugger/tryhackme-writeups/tree/main/Pre-Security/network-fundamentals%20)
 - 🗺️ [How the web works](./intro-to-web/)
 - 💻 [Computer Fundamentals](./computer-fundamentals)
-
+- ⚙️[Operating System](./operating-system-basics)
 ---
 
 ## 🎯 Goal
