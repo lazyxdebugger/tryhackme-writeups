@@ -21,7 +21,8 @@ This section contains my writeups for the **Pre-Security** learning path on TryH
 - 🗺️ [How the web works](./intro-to-web/)
 - 💻 [Computer Fundamentals](./computer-fundamentals)
 - ⚙️[Operating System](./operating-system-basics)
-- ⛭[Software Basics](./software-basics)
+- 💾 [Software Basics](./software-basics)
+- ⚔️🛡️ [Attacks and Defenses](./attacks-and-defences)
 ---
 
 ## 🎯 Goal
@@ -30,8 +31,8 @@ Build a strong foundation before moving to penetration testing.
 ---
 
 ## 📈 Progress
-- Rooms Completed: 6
-- In Progress: Yes  
+- Rooms Completed: 7
+- In Progress: No(completed the free ones.)
 
 ---
 
