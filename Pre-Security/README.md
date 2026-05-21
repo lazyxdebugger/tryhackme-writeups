@@ -11,6 +11,7 @@ This section contains my writeups for the **Pre-Security** learning path on TryH
 - Web fundamentals
 - Operating System Basics
 - software basics
+- cryptography and keys
 
 ---
 
