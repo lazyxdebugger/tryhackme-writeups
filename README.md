@@ -4,10 +4,11 @@ This repository contains my TryHackMe room writeups as I learn cybersecurity and
 
 ## 📚 Topics Covered
 - Linux basics
-- Enumeration
-- Web exploitation
-- Privilege escalation
+- AI prompting
+- Prompt Injection
 - Networking basics
+- Computer basics
+- Attacks and Defenses basics
 
 ## 📂 Structure
 Each folder contains:
