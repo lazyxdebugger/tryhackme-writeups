@@ -1,4 +1,4 @@
-# TryHackMe Room Writeups
+# 📂 TryHackMe Room Writeups
 
 This repository contains my notes and writeups for rooms completed on TryHackMe
 
@@ -10,7 +10,7 @@ The purpose of this repository is to:
 
 ---
 
-## Topics Covered
+## 📌 Topics Covered
 
 - Networking Fundamentals
 - Web Security
@@ -20,7 +20,7 @@ The purpose of this repository is to:
 
 ---
 
-## Each room writeup may include:
+## 🧩 Each room writeup may include:
 
 - Concepts learned
 - Commands used
@@ -32,15 +32,17 @@ The purpose of this repository is to:
 
 ---
 
-## Progress
+## 🚀 Progress
 
 I regularly update this repository as I complete more rooms and improve my cybersecurity skills.
 
 ---
 
 
-## Disclaimer
+## 🚫 Disclaimer
 
 These writeups are created for educational purposes only.
 
-I avoid sharing flags or restricted answers for rooms that prohibit public sharing. The focus is on understanding concepts, methodology, and learning outcomes.
+I avoid sharing flags or restricted answers for rooms that prohibit public sharing. 
+
+The focus is on understanding concepts, methodology, and learning outcomes.
