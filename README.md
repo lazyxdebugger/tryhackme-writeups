@@ -4,7 +4,10 @@ This repository contains my TryHackMe room writeups as I learn cybersecurity and
 
 ## 📚 Topics Covered
 - Linux basics
-- cont 
+- Enumeration
+- Web exploitation
+- Privilege escalation
+- Networking basics
 
 ## 📂 Structure
 Each folder contains:
@@ -15,6 +18,11 @@ Each folder contains:
 ## ⚠️ Disclaimer
 These writeups are for educational purposes only.
 
+Detailed answers and flags are intentionally omitted.
+
+## 📌 Note
+This repository includes only writeups for freely accessible TryHackMe rooms.
+
 ## 🚀 Progress
 - Rooms completed: X
-- Learning path: Cybersecurity basics → Pentesting → cont
+- Learning path: Cybersecurity basics → Pentesting → Advanced exploitation
